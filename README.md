@@ -2,6 +2,7 @@
 # Certification
 - ADSP
 - DASP
+- SQLP
 - TensorFlow(~ing)
 - Big Data Analysis Engineer(~ing)
 - Computerized accounting qualification Advanced Level
