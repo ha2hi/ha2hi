@@ -4,7 +4,6 @@
 - DASP
 - SQLD(~ing)
 - SQLP(~ing)
-- TensorFlow(~ing)
 - Big Data Analysis Engineer(~ing)
 - Computerized accounting qualification Advanced Level
 <!---
