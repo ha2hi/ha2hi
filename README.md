@@ -2,7 +2,7 @@
 # Certification
 - ADSP
 - DASP
-- SQLD(~ing)
+- SQLD
 - SQLP(~ing)
 - Big Data Analysis Engineer(~ing)
 - Computerized accounting qualification Advanced Level
