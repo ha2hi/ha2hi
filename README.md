@@ -18,6 +18,8 @@
   - Computerized accounting qualification Advanced Level 
   - Big Data Analysis Engineer(~ing)
   
+### 캐글
+- https://www.kaggle.com/hiha2949
 <!---
 ha2hi/ha2hi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
