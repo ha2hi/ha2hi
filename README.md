@@ -15,7 +15,6 @@
 ### 자격증
   - ADSP
   - DASP
-  - SQLD
   - Computerized accounting qualification Advanced Level 
   - ADP(~ing)
   - Big Data Analysis Engineer(~ing)
