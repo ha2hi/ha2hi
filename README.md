@@ -4,7 +4,7 @@
   - 제주대학교 빅데이터융합전공(복)(졸)
   - 전동킥보드 데이터분석팀(2021/03/01~)
     - 킥보드 배치 예측 모델
--->
+
 ### 수상경력
   - 제1회 CDS 빅데이터 경진대회
  
@@ -21,7 +21,7 @@
   
 ### 캐글
 - https://www.kaggle.com/hiha2949
-<!---
+
 ha2hi/ha2hi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
